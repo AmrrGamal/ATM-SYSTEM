@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+
+.logo{
+    margin-top: 50px;
+    margin-bottom: 7%;
+    width: 15%;
+    height: 80px;
+    padding: 10px ;
+    border: solid;
+    border-color: green;
+    border-radius: 15px 50px 30px 5px;
+
+}
+.logoimage{
+    height: 70px;
+    border-radius: 50%;
+}
+
+.bankname {
+    float:right;
+    margin-right: 15px;
+    margin-top: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+}
+
+
+
+
+.text{
+    color:green;;
+}
+
+.addr{
+   
+    font-style:italic;
+    font-size: 30px;
+    /* margin-top: 50px; */
+}
+
+.img {
+    float:right;
+    width:500px;
+    height: 300px;
+    margin-bottom: 50px;
+
+}
+
+.log{
+    /* float: right; */
+    margin-top: 255px;
+}
+
+.but1{
+    font-size: 18px;
+    width: 130px;
+    height: 70px;
+    border: 5px outset rgb(250, 60, 60);
+    cursor:pointer;
+    float: right;
+    font-size: 32px;
+    margin:30px;
+
+    
+}
+.but2{
+    background-color:green;
+    font-size: 18px;
+    width: 200px;
+    height: 30px;
+    float: right;
+    margin-top:1000px;
+    
+}
+
+.header{
+    display: block;
+    width: 600px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 150px;
+}
+
+.imag{
+    float: right;
+    width: 300px;
+    height: 200px;
+    padding-right: 20px;
+    
+}
+
+.sec{
+    border: solid;
+    border-color:green;
+    height: 300px;
+    margin-top: 20px;
+    color:green;
+}
+.sec pre{
+    padding-top: 50px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 35px;
+    color:green;
+}
+
+.back{
+    background-color:green;
+    font-size: 18px;
+    width: 100px;
+    height: 30px;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
